@@ -1,0 +1,15 @@
+{
+  "name": "functions",
+  "description": "Cloud Functions for Firebase",
+  "dependencies": {
+    "actions-on-google": "^1.5.1",
+    "firebase-admin": "^5.4.3",
+    "firebase-functions": "^0.7.0",
+    "fluent-ssml": "^0.2.5",
+    "mongodb": "^2.2.33",
+    "mongolab-data-api": "^1.1.6",
+    "nconf": "^0.8.5",
+    "ssml-builder": "^0.4.0"
+  },
+  "private": true
+}
